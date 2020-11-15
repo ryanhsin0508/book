@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/PinnedPostCarousel",
+    "version": "1.0.0",
+    "description": "Presslogic PinnedPostCarousel",
+    "author": "Tim",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name PinnedPostCarousel ./PinnedPostCarousel.vue"
+    }
+}

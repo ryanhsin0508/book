@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/large-hot-video",
+    "version": "1.0.0",
+    "description": "presslogic large hot video",
+    "author": "Howie",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name LargeHotVideo ./LargeHotVideo.vue"
+    }
+}

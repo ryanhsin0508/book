@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/popup-message",
+    "version": "1.0.0",
+    "description": "Common popup message",
+    "author": "WEB TEAM",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name popupMessage ./popupMessage.js"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/sidebar-hottest-article",
+    "version": "1.0.0",
+    "description": "presslogic sidebar article hottest post",
+    "author": "Howie",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name SidebarHottestArticle ./SidebarHottestArticle.vue"
+    }
+}

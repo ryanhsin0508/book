@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/large-article",
+    "version": "1.0.0",
+    "description": "presslogic article large post",
+    "author": "Howie",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name LargeArticle ./LargeArticle.vue"
+    }
+}

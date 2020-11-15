@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/qr-code",
+    "version": "1.0.0",
+    "description": "Common download appstore and googleplay QRcode",
+    "author": "Anne",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name qrCode ./qrCode.vue"
+    }
+}

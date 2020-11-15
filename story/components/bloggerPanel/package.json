@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/blogger-panel",
+    "version": "1.0.0",
+    "description": "blogger panel",
+    "author": "Noah",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name blogger-panel ./bloggerPanel.vue"
+    }
+}

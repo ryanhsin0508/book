@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/author-panel",
+    "version": "1.0.0",
+    "description": "author panel",
+    "author": "Noah",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name author-panel ./authorPanel.vue"
+    }
+}

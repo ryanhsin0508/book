@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/notice-msg",
+    "version": "1.0.0",
+    "description": "A notice message displayed after some actions",
+    "author": "Dora",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name noticeMsg ./noticeMsg.vue"
+    }
+}

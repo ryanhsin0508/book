@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/ArticleCarouselFlexible",
+    "version": "1.0.0",
+    "description": "Presslogic ArticleCarouselFlexible",
+    "author": "Tim",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name ArticleCarouselFlexible ./ArticleCarouselFlexible.vue"
+    }
+}

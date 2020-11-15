@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/MainArticle",
+    "version": "1.0.0",
+    "description": "Presslogic MainArticle",
+    "author": "Tim",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name MainArticle ./MainArticle.vue"
+    }
+}

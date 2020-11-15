@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/like-button",
+    "version": "1.0.0",
+    "description": "Common like function",
+    "author": "Anne",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name likeButton ./likeButton.vue"
+    }
+}

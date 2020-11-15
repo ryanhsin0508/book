@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/circle-progress-bar",
+    "version": "1.0.0",
+    "description": "circle progress bar",
+    "author": "WEB TEAM",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name circle-progress-bar ./circleProgressBar.vue"
+    }
+}

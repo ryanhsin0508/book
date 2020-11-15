@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/Gallery",
+    "version": "1.0.0",
+    "description": "Presslogic Gallery",
+    "author": "Sean",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name Gallery ./Gallery.vue"
+    }
+}

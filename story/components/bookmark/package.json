@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/bookmark",
+    "version": "1.0.0",
+    "description": "bookmark function",
+    "author": "dora",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name bookmark ./bookmark.vue"
+    }
+}

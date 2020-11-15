@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/article-video-list",
+    "version": "1.0.0",
+    "description": "presslogic article video list theme",
+    "author": "Howie",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name ArticleVideoList ./ArticleVideoList.vue"
+    }
+}

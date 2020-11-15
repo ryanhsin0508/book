@@ -1,0 +1,10 @@
+{
+    "name": "@beautybee/upload-img",
+    "version": "1.0.0",
+    "description": "Common profile upload imagine file",
+    "author": "Anne",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name uploadImg ./uploadImg.vue"
+    }
+}

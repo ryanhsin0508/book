@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/header-revamp",
+    "version": "1.0.0",
+    "description": "mobile header Revamp for BeautyBee",
+    "author": "Howie",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name headerRevamp ./headerRevamp.vue"
+    }
+}

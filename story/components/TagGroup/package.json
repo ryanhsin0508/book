@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/tag-group",
+    "version": "1.0.0",
+    "description": "Presslogic Tag Group",
+    "author": "Tim",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name TagGroup ./TagGroup.vue"
+    }
+}

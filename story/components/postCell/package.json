@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/post-cell",
+    "version": "1.0.0",
+    "description": "postcell",
+    "author": "Noah",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name post-cell ./postCell.vue"
+    }
+}

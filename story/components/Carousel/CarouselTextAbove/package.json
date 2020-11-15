@@ -1,0 +1,10 @@
+{
+    "name": "@presslogic/CarouselTextAbove",
+    "version": "1.0.0",
+    "description": "Presslogic Carousel For Event",
+    "author": "Sean",
+    "private": true,
+    "scripts": {
+        "build-b": "vue-cli-service build --target lib --name CarouselTextAbove ./CarouselTextAbove.vue"
+    }
+}

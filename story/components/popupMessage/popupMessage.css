@@ -1,0 +1,54 @@
+/* popupMessage */
+#popup_message {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    right: 0;
+    width: 500px;
+    text-align: center;
+    /* color: #fff; */
+    margin: auto;
+    border-radius: 4px;
+    /* line-height: 2em; */
+    z-index: 10005;
+    animation: comeDown 0.5s forwards;
+    padding: 10px;
+    line-height: 30px;
+}
+#popup_message.mobile {
+    text-align: left;
+    font-size: 12px;
+    width: 100vw;
+    top: 40px;
+    animation: comeDownM 0.5s forwards;
+}
+.popup_message_success {
+    background-color: #f0f9eb;
+    border: 1px solid #5cac34;
+    color: #5cac34;
+}
+.popup_message_error {
+    background-color: #fff6f7;
+    border: 1px solid #fc4343;
+    color: #fc4343;
+}
+.popup_message_warning {
+    background-color: #e6a23c;
+    border: 1px solid #e49a2b;
+}
+@keyframes comeDown {
+    0% {
+        top: 80px;
+    }
+    100% {
+        top: 100px;
+    }
+}
+@keyframes comeDownM {
+    0% {
+        top: 0px;
+    }
+    100% {
+        top: 40px;
+    }
+}
